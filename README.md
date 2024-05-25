@@ -96,3 +96,9 @@ You have successfully borrowed "Clean Code".➡️
 7. Returning a Book:
 Enter 10 digit ISBN to return: 978-0321356681
 You have successfully returned "Clean Code".⬅️
+
+
+## Technical Details:
+
+- **Programming Language**: Java
+- **Data Structure**: HashMap (to store book information)
